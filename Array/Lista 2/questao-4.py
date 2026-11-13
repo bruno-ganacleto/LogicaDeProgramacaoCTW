@@ -11,7 +11,7 @@ media_classe = None
 for i in range(alunos):
     notas = []
     pesos = []
-    soma_pesos = 0'
+    soma_pesos = 0
     somatorio_notas = 0
     somatorio_pesos = 0
     soma_medias = 0
